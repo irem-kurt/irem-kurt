@@ -6,7 +6,7 @@ Currently, I am developing my testing skills and mindset to become an expert Tes
 
 Skills: JAVA / NODE JS / SQL 
 
-- 🔭 I’m currently working on a Cucumber Web Service Testing 
+- 🔭 I’m currently working on a Cucumber Web Service Testing Project
 - 🌱 I’m currently learning Selenium and Cucumber 
 - 📫 How to reach me: s.iremkurt@gmail.com 
 - ⚡ Fun fact: I am pretty good at graphic design and acrylic painting! 
