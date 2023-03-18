@@ -1,7 +1,5 @@
 ### Hi there 👋, I am İrem Kurt
 #### Test Engineer and Software Engineering Student
-![Test Engineer and Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am a master student of Software Engineering department at Boğaziçi University! I have started my journey with coding when I started the NodeJs Backend bootcamp done by Re:Coded. 
 
 Currently, I am developing my testing skills and mindset to become an expert Testing and Automation Engineer. I am a very detailed-oriented person who enjoys learning new concepts and improving the skill set in each day. 
