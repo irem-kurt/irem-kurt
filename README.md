@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I am İrem KURT 👋
+I am a master student of Software Engineering department at Boğaziçi University! I have started my journey with coding when I started the Backend bootcamp done by Re:Coded.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irem-kurt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **irem-kurt/irem-kurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
