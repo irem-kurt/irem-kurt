@@ -2,7 +2,7 @@
 
 I am a master student of Software Engineering department at Boğaziçi University! I have started my journey with coding when I started the NodeJs Backend bootcamp done by Re:Coded. 
 
-Currently, I am developing my testing skills and mindset to become a real expert Testing and Automation Engineer because I LOVED testing more. I am planning to get ISTQB Foundation Level certificate soon so my favorite website right now is "www.turkishtestingboard.org"! :) 
+Currently, I am developing my testing skills and mindset to become a real expert Testing and Automation Engineer because I LOVED testing more. I am planning to get ISTQB Foundation Level certificate soon so my favorite website right now is "www.istqb.org"! :) 
 
 Skills: JAVA / NODE JS / SQL 
 
