@@ -1,13 +1,12 @@
 ### Hi there 👋, I am İrem Kurt
 
-#### Test Engineer and Software Engineering Student
 I am a master student of Software Engineering department at Boğaziçi University! I have started my journey with coding when I started the NodeJs Backend bootcamp done by Re:Coded. 
 
-Currently, I am developing my testing skills and mindset to become an expert Testing and Automation Engineer. I am a very detailed-oriented person who enjoys learning new concepts and improving the skill set in each day. 
+Currently, I am developing my testing skills and mindset to become a real expert Testing and Automation Engineer because I LOVED testing more. I am planning to get ISTQB Foundation Level certificate soon so my favorite website right now is "www.turkishtestingboard.org"! :) 
 
 Skills: JAVA / NODE JS / SQL 
 
-- 🔭 I’m currently working on a Cucumber Web Service Testing Project
+- 🔭 I’m currently working on a Cucumber Web Service Testing Project with Selenium
 - 🌱 I’m currently learning ISTQB principles, Selenium and Cucumber 
 - 📫 How to reach me: s.iremkurt@gmail.com 
 - ⚡ Fun fact: I am pretty good at graphic design and acrylic painting! 
